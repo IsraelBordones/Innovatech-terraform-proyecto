@@ -1,5 +1,6 @@
 # COMO EJECUTAR LA ARQUITECTURA PARA INNOVATECH CHILE
 proyecto de terraform para Innovatech Chile
+
 requisitos: CMD GIT, AWS CLI, TERRAFORM CLI, AWS
 
 1 Descargar la carpeta con los 4 archivos de configuración
